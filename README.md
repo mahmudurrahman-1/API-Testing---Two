@@ -1,10 +1,10 @@
 # Simple Books API #
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e73ed186-e18e-48ed-ad8c-729b16ea9907/deploy-status)](https://app.netlify.com/sites/glitchmemahmud/deploys)
 This API allows to reserve a book.
 
 The API is available at `https://simple-books-api.glitch.me`
 
-## [Click here to see the report](https://glitchme.netlify.app/)
+## [Click here to see the report](https://glitchmemahmud.netlify.app/)
 
 ## Endpoints ##
 
